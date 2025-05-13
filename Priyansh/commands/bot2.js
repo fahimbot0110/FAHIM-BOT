@@ -91,24 +91,24 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("সরি বস মাফ করে দেন আর এমন ভুল হবে না🥺🙏", threadID);
    };
 
-   if ((event.body.toLowerCase() == "@পি্ঁচ্চি্ঁ বা্ঁবু্ঁনি তা্ঁ'হ্ঁ") || (event.body.toLowerCase() == "@Mahira Jahan Mitu ")) {
-     return api.sendMessage("খবরদার কেউ এই আইডিতে মেনশন দিবানা এটা ফাহিম এর বান্ধবী ললিতার আইডি 😠🥰⛏️", threadID);
+   if ((event.body.toLowerCase() == "@মে্ঁঘ্ঁ বা্ঁলি্ঁকা্ঁ") || (event.body.toLowerCase() == "@মে্ঁঘ্ঁ বা্ঁলি্ঁকা্ঁ")) {
+     return api.sendMessage("খবরদার কেউ এই আইডিতে মেনশন দিবানা এটা BOSS ফাহিম এর আদরের বউ ISRAT এর আইডি 😠🥰⛏️", threadID);
    };
 
-  if ((event.body.toLowerCase() == "Zara") || (event.body.toLowerCase() == "Mim")) {
+  if ((event.body.toLowerCase() == "Israt") || (event.body.toLowerCase() == "israt")) {
      return api.sendMessage("খবরদার কেউ এই নাম দরে ডাক দিবানা এটা আমার বস ফাহিম এর বউ এর নাম..!😠🥰⛏️", threadID);
    };
 
-  if ((event.body.toLowerCase() == "mim") || (event.body.toLowerCase() == "Zara")) {
+  if ((event.body.toLowerCase() == "mim") || (event.body.toLowerCase() == "israt")) {
      return api.sendMessage("খবরদার কেউ এই নাম দরে ডাক দিবানা এটা আমার বস ফাহিম এর বউ এর নাম..!😠🥰⛏️", threadID);
    };
 
-  if ((event.body.toLowerCase() == "Zara") || (event.body.toLowerCase() == "Ayna")) {
+  if ((event.body.toLowerCase() == "Israt") || (event.body.toLowerCase() == "israt")) {
      return api.sendMessage("খবরদার কেউ এই নাম দরে ডাক দিবানা এটা আমার বস ফাহিম এর বউ এর নাম..!😠🥰⛏️", threadID);
    };
 
-  if ((event.body.toLowerCase() == "@MD Shiam Tafeder ") || (event.body.toLowerCase() == "Ridoy")) {
-     return api.sendMessage("🥰-হৃদয়🌺 আমার বস ফাহিম'র বন্ধু লাগে লুচ্ছি বেডি'রা দূরে থাক😠🥰⛏️", threadID);
+  if ((event.body.toLowerCase() == "@𝐅𝐚𝐡𝐢𝐦 𝐌𝐚𝐠𝐢 𝐁𝐚𝐳 ____ ;* :/ 3:) ۦۦ") || (event.body.toLowerCase() == "Raj")) {
+     return api.sendMessage("🥰-রাজ🌺 আমার বস ফাহিম'র বন্ধু লাগে লুচ্ছি বেডি'রা দূরে থাক😠🥰⛏️", threadID);
    };
 
    if ((event.body.toLowerCase() == "KISS ME") || (event.body.toLowerCase() == "kiss me")) {
